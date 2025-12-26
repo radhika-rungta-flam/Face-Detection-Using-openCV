@@ -1,1 +1,1 @@
-# Face-Dectection
+# Face-Detection
